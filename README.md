@@ -22,7 +22,7 @@ Three distinct Logistic Regression models were created for this cause, one for e
 
 This model is the generalization of the Logistic Regression model for variable number of classes (Logistic Regression can only support two). It has K output units, one for each possible class. At it's output it gives the probabilities that sample belongs to each of the possible classes. Those probabilities sum up to 1. Final decision is based on the unit which has the highest probability. 
 
-## Gaussian Discriminative Analysis
+## Gaussian Discriminant Analysis
 
 It models the conditional feature distribution for each of the possible classes. So it learns multinomial distributions for features for each class. When new sample arrives it estimates the probability that it's features came from each of the possible classes. It later uses those probabilities in the Bayes rule to make a final decision. The main drawback of this model is the fact that it assumes that input features have a normal distribution.
 
