@@ -2,7 +2,7 @@
 
 Implementation of the:
 * [One-vs-All Logistic Regression](https://towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
-* [Softmax Classifier)(https://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/)
+* [Softmax Classifier](https://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/)
 * [Gaussian Discriminant Analysis](https://towardsdatascience.com/gaussian-discriminant-analysis-an-example-of-generative-learning-algorithms-2e336ba7aa5c)
 * [Gaussian Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
