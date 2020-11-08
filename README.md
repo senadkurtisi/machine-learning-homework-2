@@ -29,3 +29,12 @@ It models the conditional feature distribution for each of the possible classes.
 ## Gaussian Naive Bayes
 
 It models the conditional distribution for each feature separately for each of the possible classes. So it learns 12 different distributions (3 classes * 4 features). When new sample arrives it estimates the probability that each of it's features came from each of the possible classes. It later uses those probabilities in the Bayes rule to make a final decision.
+
+# Test Set Performance
+
+| Model  | Test Set Acc. |
+|:------:|:-------------:|
+| One-vs-All | 100 % |
+| Softmax | 100 % |
+| GDA | 100 % |
+| GNB | 97.22 % |
