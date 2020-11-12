@@ -48,4 +48,4 @@ It models the conditional distribution for each feature separately for each of t
    b) Open **ML_2_main.ipynb** in the newly opened window. This will open the same notebook as [ML_2_main.ipynb](src/ML_2_main.ipynb).
    c) Experiment with the code
    
-   **NOTE: This step isn't necessary. You can open ***ML_2_main.ipynb*** **notebook in any editor/IDE which supports jupyter notebooks.**
+   **NOTE: This step isn't necessary. You can open** ***ML_2_main.ipynb*** **notebook in any editor/IDE which supports jupyter notebooks.**
