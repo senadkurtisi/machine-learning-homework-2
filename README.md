@@ -38,3 +38,14 @@ It models the conditional distribution for each feature separately for each of t
 | Softmax | 100 % |
 | GDA | 100 % |
 | GNB | 97.22 % |
+
+
+## Setup & instructions
+1. Open Anaconda Prompt and navigate to the directory of this repo by using: ```cd PATH_TO_THIS_REPO ```
+2. Execute ``` conda env create -f environment.yml ``` This will set up an environment with all necessary dependencies. 
+3. Activate previously created environment by executing: ``` conda activate ml-homework-2 ```
+4. a) Execute ``` jupyter notebook ```. This will open up jupyter notebook in your deafult browser. 
+   b) Open [ML_2_main.ipynb](src/ML_2_main.ipynb) notebook.
+   c) Experiment with the code
+   
+   **NOTE: This step isn't necessary. You can open this notebook in any editor/IDE which supports jupyter notebooks.**
